@@ -5,7 +5,7 @@
 - [Filscan](https://filscan.io/#/home)
 
 ## github资源分享
-[Filecoin 资源分享](https://github.com/CoinSummer/filecoin)
+- [Filecoin 资源分享](https://github.com/CoinSummer/filecoin)
 
 
 ## 技术文章
@@ -25,7 +25,7 @@
 - [Filecoin为什么需要GPU？](https://learnblockchain.cn/2019/11/28/filecoin-GPU)
 
 ## IPFS
-[IPFS与Filecoin 从入门到精通](https://github.com/xipfs/IPFS-Internals)
+- [IPFS与Filecoin 从入门到精通](https://github.com/xipfs/IPFS-Internals)
 
 
 
