@@ -1,5 +1,6 @@
 ## 官方文档
 - [Filecoin Spec](https://spec.filecoin.io/)
+- [Filecoin Docs](https://docs.filecoin.io/)
 
 ## 区块链浏览器
 - [Filscan](https://filscan.io/#/home)
