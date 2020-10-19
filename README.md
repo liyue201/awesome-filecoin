@@ -24,7 +24,7 @@
 - [Filecoin - 深入理解SDR算法](https://blog.csdn.net/StarLi2020/article/details/107576768)
 - [Filecoin - SDR性能优化原理分析](https://learnblockchain.cn/article/1505)
 - [Filecoin为什么需要GPU？](https://learnblockchain.cn/2019/11/28/filecoin-GPU)
-
+- [Gas费是什么？](https://www.ipfsnews.net/detail?articleId=2395)
 ## 部署
 - [lotus环境搭建](https://www.cnblogs.com/tomtellyou/p/12212581.html)
 - [开始 Lotus 挖矿](http://www.r9it.com/20191020/start-mining-lotus.html)
