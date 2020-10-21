@@ -8,6 +8,10 @@
 ## github资源分享
 - [Filecoin 资源分享](https://github.com/CoinSummer/filecoin)
 
+## 源码分析
+
+- [lotus存储管理调度](sched.md)
+
 ## 技术文章
 - [Filecoin - 逻辑梳理及源代码导读](https://learnblockchain.cn/article/679)
 - [Filecoin - PoRep和PoSt算法源代码导读](https://learnblockchain.cn/article/680)
