@@ -5,7 +5,7 @@
 				*   Empty <- incoming deals
 				|   |
 				|   v
-			    *<- WaitDeals <- incoming deals
+				*<- WaitDeals <- incoming deals
 				|   |
 				|   v
 				*<- Packing <- incoming committed capacity
