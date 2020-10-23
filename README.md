@@ -1,10 +1,16 @@
 ## 官方文档
 - [Filecoin Spec](https://spec.filecoin.io/)
 - [Filecoin Docs](https://docs.filecoin.io/)
+- [Lotus JSOIN API](https://documenter.getpostman.com/view/4872192/SWLh5mUd?version=latest)
 
 ## 区块链浏览器
-- [Filscan](https://filscan.io/#/home)
-
+  - [官方浏览器 stats](https://stats.testnet.filecoin.io/) - **官方**
+  - [Filscout](https://filscout.io/en/) - 星际联盟团队开发
+  - [官方 Filscan](https://filscan.io/)
+  - [1475ipfs](https://1475ipfs.com/#/blockBrowser) - 1475 团队开发
+  - [FilFox](https://filfox.info/zh) - 6Block 团队
+  - [Filplorer](https://filplorer.com/) - 未知
+  
 ## github资源分享
 - [Filecoin 资源分享](https://github.com/CoinSummer/filecoin)
 
