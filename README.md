@@ -1,7 +1,7 @@
 ## 官方文档
 - [Filecoin Spec](https://spec.filecoin.io/)
 - [Filecoin Docs](https://docs.filecoin.io/)
-- [Lotus JSOIN API](https://documenter.getpostman.com/view/4872192/SWLh5mUd?version=latest)
+- [Lotus JSON API](https://documenter.getpostman.com/view/4872192/SWLh5mUd?version=latest)
 - [网络(主网、测试网等)](https://network.filecoin.io/)
 
 ## 区块链浏览器
