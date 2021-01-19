@@ -18,6 +18,7 @@
 ## 源码分析
 
 - [lotus存储管理调度](sched.md)
+- [Gas费公式](gasfee.md)
 
 ## 技术文章
 - [Filecoin - 逻辑梳理及源代码导读](https://learnblockchain.cn/article/679)
